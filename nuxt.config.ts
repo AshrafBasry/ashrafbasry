@@ -7,7 +7,7 @@ export default defineNuxtConfig({
 
   // App Config
   app: {
-    buildAssetsDir: '/ashrafbasry/_nuxt/',
+    baseURL: '/ashrafbasry/',
     head: {
       title: 'Ashraf Basry',
       meta: [
